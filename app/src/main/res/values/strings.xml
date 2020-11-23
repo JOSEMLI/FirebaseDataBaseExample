@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Board</string>
+
+    <string name="movie_name_hint">Enter Movie Name</string>
+
+    <string name="instruccions">No Movies Available , Please Enter your favorite movie by clicking + Button</string>
+
+
+
+</resources>
